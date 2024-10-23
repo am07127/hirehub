@@ -37,7 +37,6 @@
 
 To get started with the project, clone this repository and follow the instructions below:
 
-```bash
 # Clone the repository
 git clone https://github.com/yourusername/hirehub.git
 
