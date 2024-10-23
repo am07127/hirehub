@@ -37,19 +37,31 @@
 
 To get started with the project, clone this repository and follow the instructions below:
 
-# Clone the repository
+## Clone the repository
+
+```bash
 git clone https://github.com/yourusername/hirehub.git
+```
 
-# Navigate into the directory
+## Navigate into the directory
+
+```bash
 cd hirehub
+```
 
-# Install dependencies
+## Install dependencies
+
+```bash
 npm install
+```
 
-# Run the development server
+## Run the development server
+
+```bash
 npm run dev
+```
 
-# Visit the app at http://localhost:3000
+## Visit the app at http://localhost:3000
 
 ## **Usage**
 
